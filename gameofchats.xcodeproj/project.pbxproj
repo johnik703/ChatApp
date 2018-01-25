@@ -12,6 +12,22 @@
 		0727FFBC1E8AB44A006FBAAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0727FFBA1E8AB44A006FBAAB /* Main.storyboard */; };
 		0727FFBE1E8AB44A006FBAAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0727FFBD1E8AB44A006FBAAB /* Assets.xcassets */; };
 		0727FFC11E8AB44A006FBAAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0727FFBF1E8AB44A006FBAAB /* LaunchScreen.storyboard */; };
+		0727FFCD1E8AB7BA006FBAAB /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0727FFCC1E8AB7BA006FBAAB /* LoginController.swift */; };
+		0727FFD31E8AD2AD006FBAAB /* basketball.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0727FFD21E8AD2AD006FBAAB /* basketball.jpeg */; };
+		0729EA481E94ABC2004C14E1 /* LoginController+handlers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0729EA471E94ABC2004C14E1 /* LoginController+handlers.swift */; };
+		0729EA4D1E94D42C004C14E1 /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0729EA4C1E94D42C004C14E1 /* Extentions.swift */; };
+		0734CFC21E8AF775007741AA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0734CFC11E8AF775007741AA /* GoogleService-Info.plist */; };
+		0734CFC41E8B3315007741AA /* NewMessageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0734CFC31E8B3315007741AA /* NewMessageController.swift */; };
+		0734CFC71E8B4441007741AA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0734CFC61E8B4441007741AA /* User.swift */; };
+		07784AB91E98CE2D002FD658 /* ChatInputContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07784AB81E98CE2D002FD658 /* ChatInputContainerView.swift */; };
+		07B82B9D1E962CD800AD2F15 /* ChatLogController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B82B9C1E962CD800AD2F15 /* ChatLogController.swift */; };
+		07B82B9F1E9641CB00AD2F15 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B82B9E1E9641CB00AD2F15 /* Message.swift */; };
+		07B82BA21E964AE200AD2F15 /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B82BA11E964AE200AD2F15 /* UserCell.swift */; };
+		07B82BA41E9690F000AD2F15 /* ChatMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B82BA31E9690F000AD2F15 /* ChatMessageCell.swift */; };
+		07CDB6981E9846B4000AD1CF /* IMG_0163.MOV in Resources */ = {isa = PBXBuildFile; fileRef = 07CDB6971E9846B4000AD1CF /* IMG_0163.MOV */; };
+		07CDB69A1E9846C1000AD1CF /* IMG_0164.MOV in Resources */ = {isa = PBXBuildFile; fileRef = 07CDB6991E9846C1000AD1CF /* IMG_0164.MOV */; };
+		07CDB69C1E9862D6000AD1CF /* play_button_image.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07CDB69B1E9862D6000AD1CF /* play_button_image.jpeg */; };
+		34A026BC54040E923E32CF36 /* Pods_gameofchats.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D4579ECDAA8C2224D206EA6 /* Pods_gameofchats.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +38,24 @@
 		0727FFBD1E8AB44A006FBAAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0727FFC01E8AB44A006FBAAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0727FFC21E8AB44A006FBAAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0727FFCC1E8AB7BA006FBAAB /* LoginController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
+		0727FFD21E8AD2AD006FBAAB /* basketball.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = basketball.jpeg; sourceTree = "<group>"; };
+		0729EA471E94ABC2004C14E1 /* LoginController+handlers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LoginController+handlers.swift"; sourceTree = "<group>"; };
+		0729EA4C1E94D42C004C14E1 /* Extentions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
+		0734CFC11E8AF775007741AA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		0734CFC31E8B3315007741AA /* NewMessageController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewMessageController.swift; sourceTree = "<group>"; };
+		0734CFC61E8B4441007741AA /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		07784AB81E98CE2D002FD658 /* ChatInputContainerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatInputContainerView.swift; sourceTree = "<group>"; };
+		07B82B9C1E962CD800AD2F15 /* ChatLogController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatLogController.swift; sourceTree = "<group>"; };
+		07B82B9E1E9641CB00AD2F15 /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		07B82BA11E964AE200AD2F15 /* UserCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
+		07B82BA31E9690F000AD2F15 /* ChatMessageCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatMessageCell.swift; sourceTree = "<group>"; };
+		07CDB6971E9846B4000AD1CF /* IMG_0163.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_0163.MOV; sourceTree = "<group>"; };
+		07CDB6991E9846C1000AD1CF /* IMG_0164.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_0164.MOV; sourceTree = "<group>"; };
+		07CDB69B1E9862D6000AD1CF /* play_button_image.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = play_button_image.jpeg; sourceTree = "<group>"; };
+		2D4579ECDAA8C2224D206EA6 /* Pods_gameofchats.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_gameofchats.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4A1ED9993CC8CADF73F1C6C /* Pods-gameofchats.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gameofchats.release.xcconfig"; path = "Pods/Target Support Files/Pods-gameofchats/Pods-gameofchats.release.xcconfig"; sourceTree = "<group>"; };
+		EFE1314C391DEFB260DD35B5 /* Pods-gameofchats.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gameofchats.debug.xcconfig"; path = "Pods/Target Support Files/Pods-gameofchats/Pods-gameofchats.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +63,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34A026BC54040E923E32CF36 /* Pods_gameofchats.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,8 +73,13 @@
 		0727FFAA1E8AB44A006FBAAB = {
 			isa = PBXGroup;
 			children = (
+				07CDB6991E9846C1000AD1CF /* IMG_0164.MOV */,
+				07CDB6971E9846B4000AD1CF /* IMG_0163.MOV */,
+				07CDB69B1E9862D6000AD1CF /* play_button_image.jpeg */,
 				0727FFB51E8AB44A006FBAAB /* gameofchats */,
 				0727FFB41E8AB44A006FBAAB /* Products */,
+				70D89ACEFA0AED975C670BF1 /* Pods */,
+				96B93B7990F0C882CCD67EF3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +94,83 @@
 		0727FFB51E8AB44A006FBAAB /* gameofchats */ = {
 			isa = PBXGroup;
 			children = (
+				07B82BA01E964ABF00AD2F15 /* View */,
+				0729EA4B1E94D412004C14E1 /* Helpers */,
+				0734CFC51E8B4426007741AA /* Model */,
+				0727FFD11E8AD28C006FBAAB /* Source */,
+				0727FFCB1E8AB79C006FBAAB /* Controller */,
 				0727FFB61E8AB44A006FBAAB /* AppDelegate.swift */,
-				0727FFB81E8AB44A006FBAAB /* ViewController.swift */,
 				0727FFBA1E8AB44A006FBAAB /* Main.storyboard */,
 				0727FFBD1E8AB44A006FBAAB /* Assets.xcassets */,
 				0727FFBF1E8AB44A006FBAAB /* LaunchScreen.storyboard */,
 				0727FFC21E8AB44A006FBAAB /* Info.plist */,
+				0734CFC11E8AF775007741AA /* GoogleService-Info.plist */,
 			);
 			path = gameofchats;
+			sourceTree = "<group>";
+		};
+		0727FFCB1E8AB79C006FBAAB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				0727FFB81E8AB44A006FBAAB /* ViewController.swift */,
+				0734CFC31E8B3315007741AA /* NewMessageController.swift */,
+				0727FFCC1E8AB7BA006FBAAB /* LoginController.swift */,
+				07B82B9C1E962CD800AD2F15 /* ChatLogController.swift */,
+				0729EA471E94ABC2004C14E1 /* LoginController+handlers.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		0727FFD11E8AD28C006FBAAB /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				0727FFD21E8AD2AD006FBAAB /* basketball.jpeg */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		0729EA4B1E94D412004C14E1 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				0729EA4C1E94D42C004C14E1 /* Extentions.swift */,
+			);
+			name = Helpers;
+			sourceTree = "<group>";
+		};
+		0734CFC51E8B4426007741AA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0734CFC61E8B4441007741AA /* User.swift */,
+				07B82B9E1E9641CB00AD2F15 /* Message.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		07B82BA01E964ABF00AD2F15 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				07B82BA11E964AE200AD2F15 /* UserCell.swift */,
+				07B82BA31E9690F000AD2F15 /* ChatMessageCell.swift */,
+				07784AB81E98CE2D002FD658 /* ChatInputContainerView.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		70D89ACEFA0AED975C670BF1 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EFE1314C391DEFB260DD35B5 /* Pods-gameofchats.debug.xcconfig */,
+				E4A1ED9993CC8CADF73F1C6C /* Pods-gameofchats.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		96B93B7990F0C882CCD67EF3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2D4579ECDAA8C2224D206EA6 /* Pods_gameofchats.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +180,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0727FFC51E8AB44A006FBAAB /* Build configuration list for PBXNativeTarget "gameofchats" */;
 			buildPhases = (
+				7D52030396B4E9E9998B9283 /* [CP] Check Pods Manifest.lock */,
 				0727FFAF1E8AB44A006FBAAB /* Sources */,
 				0727FFB01E8AB44A006FBAAB /* Frameworks */,
 				0727FFB11E8AB44A006FBAAB /* Resources */,
+				BD1A1CE67B4FD1AF7FBC3D31 /* [CP] Embed Pods Frameworks */,
+				2A3E08F28547AC94BD07304A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,7 +235,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07CDB69A1E9846C1000AD1CF /* IMG_0164.MOV in Resources */,
+				07CDB6981E9846B4000AD1CF /* IMG_0163.MOV in Resources */,
+				0727FFD31E8AD2AD006FBAAB /* basketball.jpeg in Resources */,
 				0727FFC11E8AB44A006FBAAB /* LaunchScreen.storyboard in Resources */,
+				0734CFC21E8AF775007741AA /* GoogleService-Info.plist in Resources */,
+				07CDB69C1E9862D6000AD1CF /* play_button_image.jpeg in Resources */,
 				0727FFBE1E8AB44A006FBAAB /* Assets.xcassets in Resources */,
 				0727FFBC1E8AB44A006FBAAB /* Main.storyboard in Resources */,
 			);
@@ -131,13 +248,71 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2A3E08F28547AC94BD07304A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-gameofchats/Pods-gameofchats-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7D52030396B4E9E9998B9283 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		BD1A1CE67B4FD1AF7FBC3D31 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-gameofchats/Pods-gameofchats-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0727FFAF1E8AB44A006FBAAB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07B82B9D1E962CD800AD2F15 /* ChatLogController.swift in Sources */,
+				07784AB91E98CE2D002FD658 /* ChatInputContainerView.swift in Sources */,
+				0734CFC41E8B3315007741AA /* NewMessageController.swift in Sources */,
 				0727FFB91E8AB44A006FBAAB /* ViewController.swift in Sources */,
+				07B82B9F1E9641CB00AD2F15 /* Message.swift in Sources */,
+				0729EA481E94ABC2004C14E1 /* LoginController+handlers.swift in Sources */,
+				0727FFCD1E8AB7BA006FBAAB /* LoginController.swift in Sources */,
+				0734CFC71E8B4441007741AA /* User.swift in Sources */,
+				07B82BA41E9690F000AD2F15 /* ChatMessageCell.swift in Sources */,
 				0727FFB71E8AB44A006FBAAB /* AppDelegate.swift in Sources */,
+				07B82BA21E964AE200AD2F15 /* UserCell.swift in Sources */,
+				0729EA4D1E94D42C004C14E1 /* Extentions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,24 +435,33 @@
 		};
 		0727FFC61E8AB44A006FBAAB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EFE1314C391DEFB260DD35B5 /* Pods-gameofchats.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = gameofchats/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ddong.ceasar.gameofchats;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ddong.ceasar.canada;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
 		0727FFC71E8AB44A006FBAAB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4A1ED9993CC8CADF73F1C6C /* Pods-gameofchats.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = gameofchats/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ddong.ceasar.gameofchats;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ddong.ceasar.canada;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -301,6 +485,7 @@
 				0727FFC71E8AB44A006FBAAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
